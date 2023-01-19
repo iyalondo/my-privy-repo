@@ -2,3 +2,6 @@
 me
 adam
 zain
+the people
+dada
+
